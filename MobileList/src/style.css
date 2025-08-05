@@ -1,0 +1,10 @@
+.main{
+    display: flex;
+    align-items: center;
+    
+}
+
+.image{
+    margin: 10px;
+    max-height: 120px;
+}
